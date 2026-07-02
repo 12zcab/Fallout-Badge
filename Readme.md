@@ -28,11 +28,11 @@ Pls refer to BOM.csv for more details
 
 # Images
 
-![Design](https://github.com/12zcab/Fallout-Badge/blob/main/Z80Badge/img/Design.png)
+![Design](https://github.com/12zcab/Fallout-Badge/blob/main/img/Design.png)
 
-![Routing](https://github.com/12zcab/Fallout-Badge/blob/main/Z80Badge/img/Routing.png)
+![Routing](https://github.com/12zcab/Fallout-Badge/blob/main/img/Routing.png)
 
-![PCB](https://github.com/12zcab/Fallout-Badge/blob/main/Z80Badge/img/PCB.png)
+![PCB](https://github.com/12zcab/Fallout-Badge/blob/main/img/PCB.png)
 
-![PCB-Order-Page](https://github.com/12zcab/Fallout-Badge/blob/main/Z80Badge/img/Order.png)
+![PCB-Order-Page](https://github.com/12zcab/Fallout-Badge/blob/main/img/Order.png)
 
