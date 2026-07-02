@@ -1,0 +1,22 @@
+2/7/2026 FALLING OUT IN SHENZHEN :D
+
+Welp as all fallout'ers know,the world ends in 7 (actually 6) days
+Erm they asked us to make a Badge
+As a really really insane retro stuff lover i wanna make a badge with z80!!!!!!!!
+So t make it fulllllllyyyy retro
+IM NOT GONNA USE ANY ESP32s NOR ARDUINOs
+NOR any modern stuffffff
+YAH COOL
+
+So Firstly these are some componenets im planing to use
+1.a Small 5 dir. digital Joystick
+2.a 1602 LCD
+3.PLC44 package Z80 DONE
+4.a 32kB EEPROM and 32kB SRAM(Small one i guess) (PLCC Package and gonna buy a adapter)
+8.6850 Serial Interface
+9.6 Buttons for Input DONE
+10.1 Button for Reset DONE
+11.a Crystal(may be SMD one?) for CPU DONE
+12.a Crystal 2.4576MHz for Serial DONE
+13.Z80PIO DONE
+14.May be a Extend Port with Dupont 2.54 PinHeaders 90deg DONE
